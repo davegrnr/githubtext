@@ -3,14 +3,14 @@ body {
 	justify-content: center;
 	align-items: center;
 	height: 100vh;
-	background-color: orchid;
+	background-color: rgb(135, 94, 230);
 }
 
 h1 {
-	font-size: 13rem;
+	font-size: 15rem;
 	font-family: Montserrat;
 }
 
 .letter {
-	transition: color 1000ms;
+	transition: color 2000ms;
 }
